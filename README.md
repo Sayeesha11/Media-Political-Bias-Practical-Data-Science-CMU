@@ -1,1 +1,2 @@
-# Media-Political-Bias-Practical-Data-Science-CMU
+# pds_project
+Practical Data Science Final Project on News Bias System
